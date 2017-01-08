@@ -46,3 +46,6 @@ To make my news reading more fun
 ```
 
 # App interface
+
+
+# How to use it
